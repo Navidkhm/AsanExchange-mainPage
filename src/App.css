@@ -538,7 +538,7 @@
   }
 
   .shortslider>div>div{
-    width: 270px;
+    width: 280px;
   }
   @keyframes move {
     from {left:100%;}
